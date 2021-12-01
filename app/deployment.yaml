@@ -19,4 +19,4 @@ spec:
       - image: 046432083464.dkr.ecr.eu-west-2.amazonaws.com/portfolio:1
         name: test-app
         ports:
-        - containerPort: 8080
+        - containerPort: 5000
