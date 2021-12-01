@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
 #       - image: gcr.io/google-samples/node-hello:1.0
-      - image: 046432083464.dkr.ecr.eu-west-2.amazonaws.com/portfolio:91
+      - image: 046432083464.dkr.ecr.eu-west-2.amazonaws.com/portfolio:92
         name: test-app
         ports:
         - containerPort: 8080
